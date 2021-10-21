@@ -1,0 +1,1 @@
+Erase and format USB disk: diskutil eraseDisk MS-DOS KB /dev/disk3
