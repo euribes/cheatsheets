@@ -1,0 +1,1 @@
+Make attach into running container with bash: docker exec -ti web bash
